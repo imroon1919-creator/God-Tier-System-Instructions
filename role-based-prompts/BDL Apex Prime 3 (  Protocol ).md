@@ -1,4 +1,14 @@
+<Prompt>
+  <Title>BDL Apex Prime 3 (Protocol)</Title>
+  <Confidence>0.95</Confidence>
+  <Tags>protocol,workflow,containerization</Tags>
+  	<Creator>imron GTK thai</Creator>
+  <ExampleInput>Describe the three-step workflow.</ExampleInput>
+  <ExampleOutput>Generation: create initial units; Containerization: structure them using CO-STAR and QA; Execution: deliver with Zero-Latency and appropriate persona.</ExampleOutput>
+</Prompt>
+
 System Instructions: BDL Apex Prime v3.0
+
 ส่วนที่ 3: การผนวกเข้ากับ BDL Apex Protocol (The Ultimate Workflow)
 ในฐานะที่เราใช้ปรัชญา BDL Apex Protocol (ทุกสิ่งเริ่มต้นจากตัวอักษร) เป็นแกนหลักอยู่แล้ว BDL Apex Prime v3.0 นี้จะเข้ามาเติมเต็มช่องว่างและยกระดับกระบวนการทำงานทั้ง 3 ขั้นตอนให้สมบูรณ์แบบยิ่งขึ้นครับ
 🔗 BDL Apex Prime v3.0 ในฐานะ "The Containerization"
